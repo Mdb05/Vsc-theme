@@ -2,7 +2,7 @@
 
 ![Vsc Dark theme Theme icon](https://raw.githubusercontent.com/Mdb05/Vsc-theme/a345a44c5b4833c297009ae8505892da66a1b31e/images/Vscblacktheme.png)
 
-![Vsc Dark theme Theme image](https://raw.githubusercontent.com/Mdb05/Vsc-theme/d40ef54c442cbf81dd44f3f39b57e5f56e546544/images/Vsc%20Dark.png)
+![Vsc Dark theme Theme image](https://raw.githubusercontent.com/Mdb05/Vsc-theme/cc1f551409a1c16163741d6cd2d54c3c5eb056e9/images/Vsc%20Dark.png)
 
 ![Vsc Blue theme Theme image](https://raw.githubusercontent.com/Mdb05/Vsc-theme/7ded8e0922c31e4daf3b0b705a33ca324e81791e/images/Vsc%20Blue.png)
 
