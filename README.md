@@ -1,6 +1,6 @@
 # Vsc Dark theme Theme for VS Code
 
-![Vsc Dark theme Theme icon](https://raw.githubusercontent.com/Mdb05/Vsc-theme/main/images/Vsc%20black%20theme.png)
+![Vsc Dark theme Theme icon](https://raw.githubusercontent.com/Mdb05/Vsc-theme/a345a44c5b4833c297009ae8505892da66a1b31e/images/Vscblacktheme.png)
 
 ![Vsc Dark theme Theme image](https://raw.githubusercontent.com/Mdb05/Vsc-theme/d40ef54c442cbf81dd44f3f39b57e5f56e546544/images/Vsc%20Dark.png)
 
