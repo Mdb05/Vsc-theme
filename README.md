@@ -12,8 +12,8 @@ Thanks for checking out my VS Code theme.
 ## Installation
 
 1. Open the extensions sidebar on Visual Studio Code
-1. Search for Vsc Dark theme
-1. Click Install
-1. Click Reload to reload your editor
-1. Select the Manage Cog (bottom left) > Color Theme ＞ Vsc Dark theme
-1. 🌟🌟🌟🌟🌟 Rate five-stars 😃
+2. Search for Mdb05 or Vsc theme
+3. Click Install
+4. Click Reload to reload your editor
+5. Select the Manage Cog (bottom left) > Color Theme ＞ Vsc theme
+6. 🌟🌟🌟🌟🌟 Rate five-stars 😃

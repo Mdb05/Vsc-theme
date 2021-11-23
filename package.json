@@ -1,15 +1,15 @@
 {
-  "name": "vsc-dark-theme",
-  "displayName": "Vsc Dark theme",
+  "name": "vsc-theme",
+  "displayName": "Vsc theme",
   "publisher": "Mdb05",
   "description": "A theme for Visual Studio Code",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "author": {
     "name": "Mohamed bataha"
   },
   "engines": {
-    "vscode": "^1.43.0"
+    "vscode": "^1.61.0"
   },
   "homepage": "https://github.com/Mdb05/Vsc-theme",
   "repository": {
