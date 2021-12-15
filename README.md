@@ -1,4 +1,8 @@
-# Vsc Dark theme Theme for VS Code
+### Vsc Dark theme Theme for VS Code
+
+[![Version](https://vsmarketplacebadge.apphb.com/version/Mdb05.vsc-theme.svg)](https://marketplace.visualstudio.com/items?itemName=Mdb05.vsc-theme)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/Mdb05.vsc-theme.svg)](https://marketplace.visualstudio.com/items?itemName=Mdb05.vsc-theme)
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating/Mdb05.vsc-theme.svg)](https://marketplace.visualstudio.com/items?itemName=Mdb05.vsc-theme)
 
 ![Vsc Dark theme Theme icon](https://raw.githubusercontent.com/Mdb05/Vsc-theme/a345a44c5b4833c297009ae8505892da66a1b31e/images/Vscblacktheme.png)
 
